@@ -16,7 +16,7 @@
 
 ## Introduction 
 
-"TheSpoonBot" is a telegram bot developed in Java Spring designed to be a companion of [TheSpoon](https://github.com/pascareddum/thespoon). It was created for the Software Engineering Exam project at the Univerisity of Salerno.
+"TheSpoonBot" is a telegram bot designed to be a companion of [TheSpoon](https://github.com/pascareddum/thespoon). It was created for the Software Engineering Exam project at the Univerisity of Salerno.
 
 This companion bot allow users to be updated about the status of their order or reservation from their favorite restaurants, by smoothly receiving a message through one of the most popular messaging apps [Telegram](https://www.telegram.org)
 
