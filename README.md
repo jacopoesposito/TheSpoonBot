@@ -1,7 +1,7 @@
 # TheSpoonBot - Telegram Companion Bot
 ![GitHub](https://img.shields.io/github/license/jacopoesposito/TheSpoonBot?color=red&style=flat-square)
 <p align="center">
-<img src="https://github.com/jacopoesposito/TheSpoonBot/blob/master/static/logobot.jpg" width="200" height="300"/>
+<img src="https://github.com/jacopoesposito/TheSpoonBot/blob/master/static/logobot.jpg" width="200" height="200"/>
 </p>
 
 <p align = "center">
