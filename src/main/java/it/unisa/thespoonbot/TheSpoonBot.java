@@ -19,7 +19,6 @@ public class TheSpoonBot extends TelegramLongPollingBot {
 
     @Override
     public void onUpdateReceived(Update update) {
-        // Ricevi gli aggiornamenti e gestisci i comandi
         if (update.hasMessage() && update.getMessage().hasText()) {
             Message message = update.getMessage();
             String command = message.getText();
@@ -53,18 +52,15 @@ public class TheSpoonBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        // Restituisci il nome utente del tuo bot
         return "TheSpoonBot";
     }
 
     @Override
     public String getBotToken() {
-        // Restituisci il token del tuo bot ottenuto da BotFather
         return telegramAPIKey;
     }
 
     public static void main(String[] args) {
-        // Crea un oggetto TheSpoonBot e avvialo
         try{
             TheSpoonBot myBot = new TheSpoonBot();
             TelegramBotsApi telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
