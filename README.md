@@ -40,7 +40,7 @@ The Spoon consists of three main components: TheSpoon (Rest Server API), TheSpoo
 * First make a clone of the repository
 
 ```
-$ git clone https://github.com/jacopoesposito/TheSpoonBot.git
+git clone https://github.com/jacopoesposito/TheSpoonBot.git
 ```
 ### Set Up Environment Variables
 
